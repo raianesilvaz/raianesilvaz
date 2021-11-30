@@ -2,7 +2,9 @@
 
 <p align="left"> 
   Oii meu nome é Raiane e sou <strong>Front-end</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  IFSP - CAMPUS BIRIGUI
+  
+  Analista de TI - Pampili
 </p>
 
 <p align="left">
