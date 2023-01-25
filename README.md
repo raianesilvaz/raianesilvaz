@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>React / Javascript.</strong>
+  🦄 Linguagens: <strong>React / Javascript / Vue.</strong>
 </p>
 
 <p align="left">
