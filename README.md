@@ -4,7 +4,7 @@
   Oii meu nome é Raiane e sou <strong>Front-end</strong>.<br>
   IFSP - CAMPUS BIRIGUI
   
-  Analista de TI - Pampili
+  Desenvolvedora JR - Pampili (REACT/VUE/JS)
 </p>
 
 <p align="left">
