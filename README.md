@@ -7,7 +7,7 @@
 <p align="center">I'm Front-End Developer. I'm focused on React, TypeScript and JavaScript.</p>
 
 ### Contacts:
- [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipenobrg/) 
+ [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raianesilvaz/) 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raianesilvaazevedo@gmail.com)
 
 <div align="center">
