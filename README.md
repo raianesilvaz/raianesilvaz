@@ -1,37 +1,37 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<div>
+  <h1 align="center">💡 Hi, there! My name is <a href="https://www.linkedin.com/in/raianesilvaz/
+"><i>Raiane</i></a> 😃️</h1>
+</div>
 
-<p align="left"> 
-  Oii meu nome é Raiane e sou <strong>Front-end</strong>.<br>
-  IFSP - CAMPUS BIRIGUI
-  
-  Desenvolvedora JR - Pampili (REACT/VUE/JS)
-</p>
+<p align="center">I'm Front-End Developer. I'm focused on React, TypeScript and JavaScript.</p>
 
-<p align="left">
-  🦄 Linguagens: <strong>React / Javascript / Vue.</strong>
-</p>
+### Contacts:
+ [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipenobrg/) 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raianesilvaazevedo@gmail.com)
 
-<p align="left">
-  💼 Ferramentas: <strong>--------------</strong>
-</p>
+<div align="center">
+  <a href="https://github.com/raianesilvaz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raianesilvaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianesilvaz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    <br />
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/raiane-silva-77295813b/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://api.whatsapp.com/send/?phone=5518996381712&text&type=phone_number&app_absent=0" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.facebook.com/ryuujiTFT/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="https://www.instagram.com/ok.ryuuji/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+<h3>Language and Tools:</h3>
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Felipe-Js" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Ts" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Felipe-React" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-Styled-components" height="100" width="40" src="https://www.svgrepo.com/show/374104/styled.svg" alt="styled-components"> 
+  <img align="center" alt="Felipe-Boostrap" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Felipe-HTML" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Git" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+ <div align="center">
+   
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipenobrg&label=visitors&color=0e75b6&style=flat" alt="israelfagundes" /> </p>
+</div>
